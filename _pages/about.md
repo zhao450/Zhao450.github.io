@@ -29,10 +29,12 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 
 <div class='paper-box-text' markdown="1">
 
-[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling]((https://ieeexplore.ieee.org/document/11317967))
+[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling](https://ieeexplore.ieee.org/document/11317967))
+Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang[Code](https://github.com/zhao450/TDRL-BCMTGP/tree/master)
 
-Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang
-
+# 💻 Grants
+- 2025.09 Principal Investigator, The Graduate Research Exploration Project of Lanzhou University of Technology
+- 2026.06 Principal Investigator, The Innovation Star Program for Outstanding Graduate Students of Gansu Province
 
 # 🎖 Honors and Awards
 - *2026.05* Special Prize, Outstanding Paper Award, The 9th Academic Conference on Intelligent Optimization and Scheduling, for the paper “A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling.”
