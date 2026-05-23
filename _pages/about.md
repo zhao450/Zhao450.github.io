@@ -23,7 +23,7 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our paper was awarded the Grand Prize for Excellent Paper at the 9th Academic Conference on Intelligent Optimization and Scheduling.
 - *2025.12*: &nbsp;🎉🎉 My first paper has been accepted by IEEE Transactions on Evolutionary Computation. 
-- *2025.12*: &nbsp;🎉🎉 Our paper won the Third Prize for Excellent Paper at the 8th Academic Conference on Intelligent Manufacturing System Engineering.
+- *2025.12*: &nbsp;🎉🎉 Our paper won the Third Prize for Excellent Paper at the 8th Academic Conference on Intelligent Manufacturing Systems Engineering.
 
 # 📝 Publications 
 
@@ -33,23 +33,19 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 
 Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05* Special Prize, Outstanding Paper Award, The 9th Academic Conference on Intelligent Optimization and Scheduling, for the paper “A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling.”
+- *2025.12* Third Prize, Outstanding Paper Award, The 8th Academic Conference on Intelligent Manufacturing Systems Engineering, for the paper “A Reflective Iteration Evolutionary Algorithm with dual-LLM for Multi-objective Heterogeneous Hybrid Flow Shop Scheduling Problem.”
+- *2025.12* Third Prize, Outstanding Paper Award, The 8th Academic Conference on Intelligent Manufacturing Systems Engineering, for the paper “An Evolutionary Algorithm Assisted by Large Language Models for Hybrid Flow Shop Scheduling in the Aluminum Industry.”
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2024.09 - now*, M.S. student in Computer Application Technology, School of Computer and Artificial Intelligence, Lanzhou University of Technology. Supervisor: Professor Fuqing Zhao.
+- *2020.09 - 2024.06*, B.E. in Software Engineering, School of Computer and Communication, Lanzhou University of Technology. Supervisor: Professor Xiangquan Gui.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Talks
+- *2026.05*, Gave an oral presentation titled “A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling” at the 9th Academic Conference on Intelligent Optimization and Scheduling.
+- *2025.12*, Gave an oral presentation titled “An Evolutionary Algorithm Assisted by Large Language Models for Hybrid Flow Shop Scheduling in the Aluminum Industry” at the 8th Academic Conference on Intelligent Manufacturing Systems Engineering.
+
+
