@@ -27,16 +27,14 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 
 # 📝 Publications 
 
-</div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/11317967))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
