@@ -29,7 +29,7 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 
 <div class='paper-box-text' markdown="1">
 
-[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/11317967))
+[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling]((https://ieeexplore.ieee.org/document/11317967))
 
 Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang
 
