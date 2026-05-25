@@ -27,11 +27,14 @@ Since 2024, I have been pursuing my Master’s degree at the School of Computer 
 
 # 📝 Publications 
 
+**Journal Papers**
+
+1. Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang."[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling.](https://ieeexplore.ieee.org/document/11317967)" IEEE Transactions on Evolutionary Computation, 2025. DOI:10.1109/TEVC.2025.3649289.[[Code](https://github.com/zhao450/KNSGAII-ES)]
+
 <div class='paper-box-text' markdown="1">
+**Competition Works**
 
-[A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling](https://ieeexplore.ieee.org/document/11317967))
-
-Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang  [Code](https://github.com/zhao450/TDRL-BCMTGP/tree/master)
+1. 赵程， 张业林， 申焕飞."双碳战略驱动下铝工业电解铝生产低耗高效调度优化研究-以甘肃某铝业有限公司为例." 第十二届全国大学生统计建模大赛.[Code](https://github.com/zhao450/KNSGAII-ES)
 
 # 💻 Grants
 - 2026.06 Principal Investigator, The Graduate Research Exploration Project of Lanzhou University of Technology
@@ -50,5 +53,4 @@ Fuqing Zhao, **Cheng Zhao**, Ling Wang, Hongyan Sang  [Code](https://github.com/
 # 💬 Talks
 - *2026.05*, Gave an oral presentation titled “A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling” at the 9th Academic Conference on Intelligent Optimization and Scheduling.
 - *2025.12*, Gave an oral presentation titled “An Evolutionary Algorithm Assisted by Large Language Models for Hybrid Flow Shop Scheduling in the Aluminum Industry” at the 8th Academic Conference on Intelligent Manufacturing Systems Engineering.
-
 
